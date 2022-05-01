@@ -12,5 +12,5 @@ Converted the json output into csv and dataframe
     5. FeesUSD/Liquidity
     6. FeesUSD/volumeUSD
     
-    Many values were zero, hence in FeesUSD/Liquidity and FeesUSD/volumeUSD many data was NaN(0/0-indeterminant).
-    So I replaced all NaN values by 0 and did the plotting.
+  Many values were zero, hence in FeesUSD/Liquidity and FeesUSD/volumeUSD many data was NaN(0/0-indeterminant).
+  So I replaced all NaN values by 0 and did the plotting.
